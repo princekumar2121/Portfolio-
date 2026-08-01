@@ -1,0 +1,16 @@
+/* Custom Stylesheet for Prince Kumar Singh's Portfolio */
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Smooth scrolling behavior enhancement */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom selection background */
+::selection {
+  background-color: #6366f1;
+  color: #ffffff;
+}
